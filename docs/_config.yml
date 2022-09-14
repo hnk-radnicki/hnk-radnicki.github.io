@@ -17,7 +17,7 @@ subtitle                 : "Vukovar"
 name                     : #&name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : #&description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://hnk-radnicki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # "/minimal-mistakes" the subpath of your site, e.g. "/blog"
+baseurl                  : "" # "/minimal-mistakes" the subpath of your site, e.g. "/blog"
 repository               : "hnk-radnicki/hnk-radnicki.github.io"
 teaser                   : # Logo se prikazuje na postovima kao default teaser mozemo postaviti i na svaki post
 logo                     : /assets/images/radnicki_logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
