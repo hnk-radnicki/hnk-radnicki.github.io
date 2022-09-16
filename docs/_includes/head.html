@@ -1,12 +1,14 @@
 <meta charset="utf-8">
+<!-- We need to warn users about cookies due to GDPR provided by cookieyes.com update there-->
 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/3b6d7cfa6ac6a838b55c36e2/script.js"></script>
+<!-- We need to warn users about cookies due to GDPR provided by cookieyes.com update there-->
 {% include seo.html %}
 
 {% unless site.atom_feed.hide %}
   <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 {% endunless %}
 
-<!-- https://t.co/dKP3o1e -->
+<!-- https://web.archive.org/web/20121109063419/https://docs.google.com/present/view?id=dkx3qtm_22dxsrgcf4 -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
