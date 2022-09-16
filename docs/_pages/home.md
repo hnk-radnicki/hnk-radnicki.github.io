@@ -38,4 +38,27 @@ feature_row:
 
 {% include feature_row %}
 
-<iframe id="sofa-standings-embed-91537-44800" width="100%" height="381"    src="https://www.sofascore.com/tournament/91537/44800/standings/tables/embed" frameborder="0" scrolling="no" style="height:381px!important">  </iframe>  <script>    (function (el) {      window.addEventListener("message", (event) => {        if (event.origin.startsWith("https://www.sofascore")) {          if (el.id === event.data.id) {            el.style.height = event.data.height + "px";          }        }      });    })(document.getElementById("sofa-standings-embed-91537-44800"));    </script>  <div style="font-size:12px;font-family:Arial,sans-serif">Standings provided by <a target="_blank" href="https://www.sofascore.com/">SofaScore LiveScore</a></div>  <script type="text/javascript" src="https://www.sofascore.com/bundles/sofascoreweb/js/bin/util/embed.min.js">  </script>
+<!--SofaScore-->
+<iframe id="sofa-standings-embed-91537-44800" 
+		width="100%"
+		height="381"
+		src="https://www.sofascore.com/tournament/91537/44800/standings/tables/embed"
+		frameborder="0"
+		scrolling="no"
+		style="height:381px!important">
+</iframe>
+
+<script>
+(function(el) {
+    window.addEventListener("message", (event) => {
+        if (event.origin.startsWith("https://www.sofascore")) {
+            if (el.id === event.data.id) {
+                el.style.height = event.data.height + "px";
+            }
+        }
+    });
+})(document.getElementById("sofa-standings-embed-91537-44800"));
+</script>
+
+<script type="text/javascript" src="https://www.sofascore.com/bundles/sofascoreweb/js/bin/util/embed.min.js"></script>
+<!--SofaScore end-->
