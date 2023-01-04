@@ -11,7 +11,7 @@ excerpt: >
   <br>
 
 feature_row:
-  - image_path: /assets/images/vt0.jpg
+  - image_path: /assets/images/knjiga.jpeg
     alt: "50 Godina Radničkog"
     title: "50 Godina Radničkog"
     excerpt: "Ovdje naručite svoju kopiju knjige"
