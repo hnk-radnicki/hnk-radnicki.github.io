@@ -6,7 +6,5 @@ main:
     url: /about/
   - title: "Objave"
     url: /objave/
-  - title: "Članovi"
-    url: /clanovi/
   - title: "Sponzorstva i donacije"
     url: /terms/

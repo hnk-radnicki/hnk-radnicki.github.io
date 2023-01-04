@@ -4,10 +4,8 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/617-vodotoranj-1.jpg
+  overlay_image: /assets/images/aer1_PR1672831128537.jpeg
 excerpt: >
-  Sample text HNK Radnicki Vukovar<br />
-  <small><a href="https://google.hr">Sample link</a></small>
 
 feature_row:
   - image_path: /assets/images/vt0.jpg
