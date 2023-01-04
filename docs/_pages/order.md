@@ -1,8 +1,7 @@
 ---
-title: "HNK “RADNIČKI” BOROVO NASELJE – VUKOVAR"
+title: "50 Godina Radničkog"
 permalink: /order/
 author_profile: false
 ---
-Placeholder za narucivanje kopije knjige
-Dodati par stranica knjige kao preview, sliku same knjige
-i nacine narudzbe (mail, tel i ostalo)
+Za narudžbu knjige "50 Godina Radničkog"
+obratite se na mail [admin@hnk-radnicki-vukovar.hr](mailto:admin@hnk-radnicki-vukovar.hr)  

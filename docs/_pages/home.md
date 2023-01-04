@@ -6,6 +6,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/aer1_PR1672831128537.jpeg
 excerpt: >
+  <br>
+  <br>
+  <br>
 
 feature_row:
   - image_path: /assets/images/vt0.jpg
@@ -13,22 +16,6 @@ feature_row:
     title: "50 Godina Radničkog"
     excerpt: "Ovdje naručite svoju kopiju knjige"
     url: "/order/"
-    btn_class: "btn--primary"
-    btn_label: "Saznaj više"
-
-  - image_path: /assets/images/vt1.jpg
-    alt: "Sample Post 2"
-    title: "Sample Post 2"
-    excerpt: "Post 2"
-    url: "/aboutn/"
-    btn_class: "btn--primary"
-    btn_label: "Saznaj više"
-
-  - image_path: /assets/images/vt2.jpg
-    alt: "Sample Post 3"
-    title: "Sample Post 3"
-    excerpt: "Post 3"
-    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Saznaj više"
 
