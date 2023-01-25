@@ -14,11 +14,18 @@ feature_row:
   - image_path: /assets/images/knjiga.jpeg
     alt: "50 Godina Radničkog"
     title: "50 Godina Radničkog"
-    excerpt: "Ovdje naručite svoju kopiju knjige"
+    excerpt: "Ovdje naručite svoju kopiju knjige<br><br>"
     url: "/order/"
     btn_class: "btn--primary"
     btn_label: "Saznaj više"
 
+  - image_path: /assets/images/sp.png
+    alt: "Članovi kluba poginuli u domovinskom ratu"
+    title: "Članovi kluba poginuli u domovinskom ratu"
+    excerpt: "<br>"
+    url: "/clanovi-drat/"
+    btn_class: "btn--primary"
+    btn_label: "Saznaj više"
 ---
 
 {% include feature_row %}
