@@ -29,7 +29,12 @@ feature_row:
 ---
 
 {% include feature_row %}
-
 <!--SofaScore-->
-<iframe id="sofa-standings-embed-91537-65734" src="https://widgets.sofascore.com/embed/tournament/91537/season/65734/standings/2.%20%C5%BDNL%20Vukovar%2024%2F25?widgetTitle=2.%20%C5%BDNL%20Vukovar%2024%2F25&showCompetitionLogo=true" style=height:832.5px!important;max-width:768px!important;width:100%!important; frameborder="0" scrolling="no"></iframe>
+<iframe id="sofa-standings-embed-91537-65734"
+		src="https://widgets.sofascore.com/embed/tournament/91537/season/65734/standings/2.%20%C5%BDNL%20Vukovar%2024%2F25?widgetTitle=2.%20%C5%BDNL%20Vukovar%2024%2F25&showCompetitionLogo=true"
+		width="100%"
+		height="830px"
+		frameborder="0"
+		scrolling="no">
+</iframe>
 <!--SofaScore end-->
