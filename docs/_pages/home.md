@@ -31,26 +31,5 @@ feature_row:
 {% include feature_row %}
 
 <!--SofaScore-->
-<iframe id="sofa-standings-embed-91537-65734"
-		src="https://widgets.sofascore.com/embed/tournament/91537/season/65734/standings/2.%20%C5%BDNL%20Vukovar%2024%2F25?widgetTitle=2.%20%C5%BDNL%20Vukovar%2024%2F25&showCompetitionLogo=true"
-		style=height:832.5px!important;
-		max-width:768px!important;
-		width:100%!important;
-		frameborder="0"
-		scrolling="no">
-</iframe>
-
-<script>
-(function(el) {
-    window.addEventListener("message", (event) => {
-        if (event.origin.startsWith("https://www.sofascore")) {
-            if (el.id === event.data.id) {
-                el.style.height = event.data.height + "px";
-            }
-        }
-    });
-})(document.getElementById("sofa-standings-embed-91537-44800"));
-</script>
-
-<script type="text/javascript" src="https://www.sofascore.com/bundles/sofascoreweb/js/bin/util/embed.min.js"></script>
+<iframe id="sofa-standings-embed-91537-65734" src="https://widgets.sofascore.com/embed/tournament/91537/season/65734/standings/2.%20%C5%BDNL%20Vukovar%2024%2F25?widgetTitle=2.%20%C5%BDNL%20Vukovar%2024%2F25&showCompetitionLogo=true" style=height:832.5px!important;max-width:768px!important;width:100%!important; frameborder="0" scrolling="no"></iframe>
 <!--SofaScore end-->
